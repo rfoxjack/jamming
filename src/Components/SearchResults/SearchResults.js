@@ -1,7 +1,7 @@
+import './SearchResults.css';
 import React from 'react';
-import { Component } from 'react';
 
-export class SearchResults extends Component.React {
+export class SearchResults extends React.Component {
     render() {
         return (
             <div className="SearchResults">
