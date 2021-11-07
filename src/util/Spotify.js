@@ -1,4 +1,4 @@
-const clientId = 'cf5a5191080a40c188b0a0f4d9196ceb';    // Remove before adding to github
+const clientId = '';    // Remove before adding to github
 const redirectUri = 'http://localhost:3000';
 let accessToken;
 
